@@ -1,4 +1,3 @@
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ROONEY07)  
 I'm Rony Hossain
 
 To become a proficient software developer and contribute to real-world solutions through efficient and scalable technologies. I aspire to work in a collaborative environment where I can grow continuously and solve challenging problems. 
