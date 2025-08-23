@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Rony Hossain
-#### I'm Roney Hossain a developer
+I'm Rony Hossain
+#### I'm a developer
 To become a proficient software developer and contribute to real-world solutions through efficient and scalable technologies. I aspire to work in a collaborative environment where I can grow continuously and solve challenging problems. 
 
 Skills: JAVASCRIPT / REACT / HTML / CSS / PYTHON / C++
