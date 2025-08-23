@@ -1,9 +1,5 @@
-<img width="100%" height="637" alt="image" src="https://github.com/user-attachments/assets/44cd1477-d802-4fb1-ba8b-d12093ee8c69" />
-
 ### Hi there 👋, I'm Rony Hossain
 #### I'm Roney Hossain a developer
-![I'm Roney Hossain a developer](https://rooney07.github.io/Rooney-portfolio-2/)
-
 To become a proficient software developer and contribute to real-world solutions through efficient and scalable technologies. I aspire to work in a collaborative environment where I can grow continuously and solve challenging problems. 
 
 Skills: JAVASCRIPT / REACT / HTML / CSS / PYTHON / C++
